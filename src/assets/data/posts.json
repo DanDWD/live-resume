@@ -1,7 +1,7 @@
 [
     {
         "thumbnail": "assets/posts/post-11-03-2019.jpg",
-        "http": "https://www.linkedin.com/pulse/anti-traversing-2d-array-formula-guilherme-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "11-03-2019",
         "internationalizations": [
             {
@@ -10,15 +10,15 @@
                 "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
             },
             {
-                "language": "pt",
-                "title": "A fórmula de matriz 2D anti-deslocamento.",
-                "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
-            }
+                "language": "fr",
+                "title": "La formule du réseau 2D anti-traversant.",
+                "description": "Avez-vous déjà pensé à la <b>relation mathématique</b> entre les <i>colonnes</i> et les <i>lignes</i> d'un tableau bidimensionnel <i>(matrice 2D)</i>? Cette structure de données cache une <b>formule de localisation des données</b> qui m'a aidé à éviter la <i>complexité temporelle de O(n²)</i>, ce qui est un scénario terrible, en la transformant en une <i>complexité temporelle constante - O(1)</i>. Une explication complète, avec des cas de test réels et des tests unitaires vous attendent."
+			}
         ]
     },
     {
         "thumbnail": "assets/posts/post-01-15-2019.jpg",
-        "http": "https://www.linkedin.com/pulse/em-2019-saia-do-desemprego-seja-voc%C3%AA-um-web-developer-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "01-15-2019",
         "internationalizations": [
             {
@@ -27,15 +27,15 @@
                 "description": "There were numerous vacancies for <i>web developers</i> on the wall, at the same time, <b>12.7 million people were unemployed</b> in Brazil, such a sad situation persisted in my mind. Back at my house, I've recalled a free course, offered by the renowned <i>Bob Tabor (Senior Program Manager at Microsoft)</i>, present at Microsoft Virtual Academy."
             },
             {
-                "language": "pt",
-                "title": "Em 2019, saia do desemprego! Seja você um Web Developer.",
-                "description": "Lá estavam no mural, inúmeras vagas para desenvolvedor web. E ao mesmo tempo, haviam <b>12,7 Milhões de compatriotas desempregados</b> e tais vagas em aberto ficaram matutando em minha cabeça. De volta à minha casa, me recordo de um curso gratuito, disponibilizado pelo renomado <i>Bob Tabor (Senior Program Manager na Microsoft)</i>, presente na Microsoft Virtual Academy."
-            }
+                "language": "fr",
+                "title": "En 2019, sortez du chômage ! Devenez développeur web.",
+				"description": "Là, sur le panneau, il y avait d'innombrables offres d'emploi pour développeur web. Et en même temps, il y avait <b>12,7 millions de compatriotes au chômage</b> et ces offres vacantes tournaient dans ma tête. De retour chez moi, je me souviens d'un cours gratuit, offert par le renommé <i>Bob Tabor (Senior Program Manager chez Microsoft)</i>, disponible sur la Microsoft Virtual Academy."
+			}
         ]
     },
     {
         "thumbnail": "assets/posts/post-07-10-2016.jpg",
-        "http": "https://www.linkedin.com/pulse/map-item-navigation-android-opensource-en-guilherme-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "07-10-2016",
         "internationalizations": [
             {
@@ -44,15 +44,15 @@
                 "description": "For great user experience, the usage of maps together with the ordered list is used very often in mobile applications. This article presents an open-source application for Android that provides a fully functional component."
             },
             {
-                "language": "pt",
-                "title": "Navegação por Item no Mapa para Android - <i>Componente de código aberto</i>.",
-                "description": "Para uma ótima experiência do usuário, o uso de mapas junto com a lista ordenada é usado com muita frequência em aplicativos móveis. Este artigo apresenta um aplicativo de código aberto para Android que fornece um componente totalmente funcional."
-            }
+                "language": "fr",
+                "title": "Navigation par élément sur la carte pour Android - <i>Composant open source</i>.",
+				"description": "Pour une excellente expérience utilisateur, l'utilisation de cartes avec une liste ordonnée est très fréquente dans les applications mobiles. Cet article présente une application open source pour Android qui fournit un composant entièrement fonctionnel."
+			}
         ]
     },
     {
         "thumbnail": "assets/posts/post-05-07-2016.jpg",
-        "http": "https://www.linkedin.com/pulse/geo-distance-search-mysql-php-guilherme-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "05-07-2016",
         "internationalizations": [
             {
@@ -61,15 +61,15 @@
                 "description": "Nowadays, <b>geolocation</b> is essential for most of the basic daily activities. Who never have asked Google where is the closest market?  In this article, I show a practical example of how to create a <i>SQL Query</i> that does a geolocational search based on a radius range and a fixed geolocational point."
             },
             {
-                "language": "pt",
-                "title": "Pesquisa por distância geográfica com MySQL e PHP.",
-                "description": "Atualmente, a <b>geolocalização</b> é essencial para a maioria das atividades diárias básicas. Quem nunca perguntou ao Google onde está o mercado mais próximo? Neste artigo, mostro um exemplo prático de como criar uma <i>consulta SQL</i> a qual faz uma pesquisa geolocalizada com base em um raio de abrangência e um ponto geográfico fixo."
-            }
+                "language": "fr",
+                "title": "Recherche par distance géographique avec MySQL et PHP.",
+				"description": "Actuellement, la <b>géolocalisation</b> est essentielle pour la plupart des activités quotidiennes de base. Qui n'a jamais demandé à Google où se trouve le supermarché le plus proche ? Dans cet article, je montre un exemple pratique de création d'une <i>requête SQL</i> qui effectue une recherche géolocalisée en fonction d'un rayon d'action et d'un point géographique fixe."
+		}
         ]
     },
     {
         "thumbnail": "assets/posts/post-06-18-2016.jpg",
-        "http": "https://www.linkedin.com/pulse/envio-de-e-mail-autenticado-php-guilherme-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "06-18-2016",
         "internationalizations": [
             {
@@ -78,15 +78,15 @@
                 "description": "With the appliance of the email security policy on the <i>Web 2.0</i> came the need to take measures that would hinder the practice of <i>spamming</i>, among the measures taken,  it is the use of authenticated e-mail, which means that for each e-mail sent, we would have the <i>signature</i> of the host who sent it, thus, there would be greater control over who, eventually, practice the spamming. In this article, I show you how to send the authenticate e-mail, increasing the chances of your email get read by the target user."
             },
             {
-                "language": "pt",
-                "title": "Envio de e-mail autenticado em PHP.",
-                "description": "Com a aplicação da política de segurança de email na <i>Web 2.0</i>, surgiu a necessidade de tomar medidas que dificultassem a prática do <i>spamming</i>, entre as medidas adotadas, está o uso de e-mail autenticado, o que significa que, para cada e-mail enviado, teríamos a <i>assinatura</i> do host que o enviou, assim, haveria maior controle sobre quem, eventualmente, praticasse o spam. Neste artigo, mostrarei como enviar o email de autenticação, aumentando as chances de seu email ser lido pelo usuário de destino."
-            }
+                "language": "fr",
+                "title": "Envoi d'e-mail authentifié en PHP.",
+				"description": "Avec l'application de la politique de sécurité des e-mails dans la <i>Web 2.0</i>, est apparue la nécessité de prendre des mesures pour rendre la pratique du <i>spamming</i> plus difficile. Parmi les mesures adoptées, il y a l'utilisation d'e-mails authentifiés, ce qui signifie que pour chaque e-mail envoyé, nous aurions la <i>signature</i> de l'hôte qui l'a envoyé, permettant ainsi un meilleur contrôle sur ceux qui pratiqueraient éventuellement le spam. Dans cet article, je montrerai comment envoyer l'e-mail d'authentification, augmentant ainsi les chances que votre e-mail soit lu par l'utilisateur destinataire."
+		}
         ]
     },
     {
         "thumbnail": "assets/posts/post-06-04-2016.jpg",
-        "http": "https://www.linkedin.com/pulse/sharing-android-6-opensource-download-guilherme-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "06-04-2016",
         "internationalizations": [
             {
@@ -95,15 +95,15 @@
                 "description": "Applications like <i>Whatsapp, Facebook, Twitter, Snapchat, etc...</i> have the ability to receive content to be shared. This gives us a wide range of possibilities, being possible to share videos, texts, URLs and even the application's page in the PlayStore for users to install your application."
             },
             {
-                "language": "pt",
-                "title": "Compartilhamento para Android - <i> Componente de código aberto </i>.",
-                "description": "Aplicativos como o <i>Whatsapp, Facebook, Twitter, Snapchat, etc ...</i> têm a capacidade de receber conteúdo para ser compartilhado. Isso nos dá uma ampla gama de possibilidades, sendo possível compartilhar vídeos, textos, URLs e até a página de aplicativos da PlayStore para que outros usuários instalem seu aplicativo."
-            }
+                "language": "fr",
+                "title": "Partage pour Android - <i>Composant open source</i>.",
+				"description": "Des applications comme <i>Whatsapp, Facebook, Twitter, Snapchat, etc...</i> ont la capacité de recevoir du contenu à partager. Cela nous offre une large gamme de possibilités, permettant de partager des vidéos, des textes, des URL et même la page d'applications de la PlayStore afin que d'autres utilisateurs installent votre application."
+			}
         ]
     },
     {
         "thumbnail": "assets/posts/post-05-28-2016.jpg",
-        "http": "https://www.linkedin.com/pulse/capturing-contact-list-android-open-source-en-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "05-28-2016",
         "internationalizations": [
             {
@@ -112,15 +112,15 @@
                 "description": "When developing a mobile application, you will be facing the need to facilitate the life of your user when sharing your application among its friends. For this, I have created the ContactPickerList, a simple and practical way to access the phonebook contact list."
             },
             {
-                "language": "pt",
-                "title": "Lista de contatos para Android - <i>Componente de código aberto</i>.",
-                "description": "Ao desenvolver um aplicativo móvel, você será confrontado com a necessidade de facilitar a vida do seu usuário para que ele compartilhe seu aplicativo entre seus amigos. Para isso, criei o ContactPickerList, uma maneira simples e prática de acessar a lista de contatos da agenda."
-            }
+                "language": "fr",
+                "title": "Liste de contacts pour Android - <i>Composant open source</i>.",
+				"description": "Lors du développement d'une application mobile, vous serez confronté à la nécessité de faciliter la vie de votre utilisateur pour qu'il puisse partager votre application avec ses amis. Pour cela, j'ai créé ContactPickerList, une façon simple et pratique d'accéder à la liste de contacts de l'agenda."
+		}
         ]
     },
     {
         "thumbnail": "assets/posts/post-05-14-2016.jpg",
-        "http": "https://www.linkedin.com/pulse/tinder-slide-card-android-open-source-en-guilherme-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "05-14-2016",
         "internationalizations": [
             {
@@ -129,15 +129,15 @@
                 "description": "Who has never encountered a push notification before? All of us smartphone users see them every day. In this article, I will teach you how to send notifications almost in real-time to any android device such as smartphone, smartwatch, etc."
             },
             {
-                "language": "pt",
-                "title": "Tinder Slide Card para Android - <i>Componente de código aberto</i>.",
-                "description": "Quem nunca encontrou uma notificação de usuário antes? Todos nós, usuários de smartphones, os vemos todos os dias. Neste artigo, ensinarei como enviar notificações quase em tempo real para qualquer dispositivo Android, como smartphone, smartwatch, etc."
-            }
+                "language": "fr",
+                "title": "Tinder Slide Card pour Android - <i>Composant open source</i>.",
+				"description": "Qui n'a jamais rencontré une notification utilisateur auparavant ? Nous les voyons tous les jours, nous, utilisateurs de smartphones. Dans cet article, je vais vous apprendre comment envoyer des notifications presque en temps réel à n'importe quel appareil Android, tel qu'un smartphone, une smartwatch, etc."
+			}
         ]
     },
     {
         "thumbnail": "assets/posts/post-05-21-2016.jpg",
-        "http": "https://www.linkedin.com/pulse/push-notification-para-android-totorial-open-source-borges-bastos/",
+        "http": "https://www.linkedin.com/",
         "date": "05-21-2016",
         "internationalizations": [
             {
@@ -146,10 +146,10 @@
                 "description": "A complete component for those who need a deck of dynamic cards woth interactive charts for Android. Much like what we found in <i>Tinder</i>. Fully open-source for changes and improvements."
             },
             {
-                "language": "pt",
-                "title": "Notificação de usuário no Android - <i>Componente de código aberto</i>.",
-                "description": "Um componente completo para quem precisa de um baralho de cartas dinâmicas com gráficos interativos para Android. Muito parecido com o que encontramos em <i> Tinder </i>. Código-fonte totalmente aberto para alterações e melhorias."
-            }
+                "language": "fr",
+                "title": "Notification d'utilisateur sur Android - <i>Composant open source</i>.",
+				"description": "Un composant complet pour ceux qui ont besoin d'un jeu de cartes dynamiques avec des graphiques interactifs pour Android. Très similaire à ce que l'on trouve sur <i>Tinder</i>. Code source entièrement ouvert pour les modifications et les améliorations."
+			}
         ]
     }
 ]

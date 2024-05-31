@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="open.as.pdf" datatype="html">
+        <source>Open Resume as PDF</source>
+        <target>Ouvrir le CV au format PDF</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <note priority="1" from="description">nav</note>
+      </trans-unit>
+      <trans-unit id="readMore" datatype="html">
+        <source>Read more</source>
+        <target>En savoir plus</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">posts</note>
+      </trans-unit>
+      <trans-unit id="successfulSubmit" datatype="html">
+        <source>Thank you for contacting me, I&apos;ll reply to you very soon.</source>
+        <target>Merci de m'avoir contacté, je vous répondrai dans les plus brefs délais.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="errorSubmit" datatype="html">
+        <source>Sorry, there is a problem, try again later, or contact me via email or social media.</source>
+        <target>Désolé, il y a un problème, réessayez plus tard, ou contactez-moi par e-mail ou via les médias sociaux.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="requiredMessageError" datatype="html">
+        <source>The message is required.</source>
+        <target>Le message est obligatoire.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="requiredEmailError" datatype="html">
+        <source>The email is required.</source>
+        <target>L'adresse électronique est obligatoire.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="invalidEmailError" datatype="html">
+        <source>Please, provide a valid email address.</source>
+        <target>Veuillez fournir une adresse électronique valide.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="requiredNameError" datatype="html">
+        <source>The name is required.</source>
+        <target>Le nom est obligatoire.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="invalidNameError" datatype="html">
+        <source>Please, provide a valid name.</source>
+        <target>Veuillez fournir un nom valide.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="messagePlaceholder" datatype="html">
+        <source>Write here your message... I will reply to you soon.</source>
+        <target>Ecrivez votre message ici... Je vous répondrai dans les plus brefs délais.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="emailPlaceholder" datatype="html">
+        <source>myemail@gmail.com</source>
+        <target>monemail@gmail.com</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="namePlaceholder" datatype="html">
+        <source>John</source>
+        <target>Jean</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="send" datatype="html">
+        <source>Send</source>
+        <target>Envoyer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="name" datatype="html">
+        <source>Your name:</source>
+        <target>Votre nom:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="email" datatype="html">
+        <source>Email:</source>
+        <target>E-mail:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="message" datatype="html">
+        <source>Your message:</source>
+        <target>Votre message:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/contact/contact.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">contact</note>
+      </trans-unit>
+      <trans-unit id="of" datatype="html">
+        <source>of</source>
+        <target>de</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="description">posts</note>
+      </trans-unit>
+      <trans-unit id="synopsis" datatype="html">
+        <source>In countless times, an article or a simple piece of information saved me hours of research, so whenever is possible, I try to do my humble contributions:</source>
+        <target>À de nombreuses reprises, un article ou un simple élément d'information m'a permis d'économiser des heures de recherche, c'est pourquoi, chaque fois que cela est possible, j'essaie d'apporter mon humble contribution :</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/posts/posts.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">posts</note>
+      </trans-unit>
+      <trans-unit id="aboutMe" datatype="html">
+        <source>About me</source>
+        <target>qui suis-je ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description">nav</note>
+      </trans-unit>
+      <trans-unit id="experiences" datatype="html">
+        <source>Experiences</source>
+        <target>Expériences</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">nav</note>
+      </trans-unit>
+      <trans-unit id="posts" datatype="html">
+        <source>Posts</source>
+        <target>Messages</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">nav</note>
+      </trans-unit>
+      <trans-unit id="projects" datatype="html">
+        <source>Projects</source>
+        <target>Projets</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">nav</note>
+      </trans-unit>
+      <trans-unit id="contact" datatype="html">
+        <source>Contact</source>
+        <target>Contact</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/header/header.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">nav</note>
+      </trans-unit>
+      <trans-unit id="previous" datatype="html">
+        <source>Previous</source>
+        <target>Précédent</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <note priority="1" from="description">exp.nav</note>
+      </trans-unit>
+      <trans-unit id="next" datatype="html">
+        <source>Next</source>
+        <target>Suivant</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <note priority="1" from="description">exp.nav</note>
+      </trans-unit>
+      <trans-unit id="yearsOld" datatype="html">
+        <source>years old</source>
+        <target>ans</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about/about.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">about</note>
+      </trans-unit>
+      <trans-unit id="hello" datatype="html">
+        <source>Hello!</source>
+        <target>Bonjour !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/welcome/welcome-dialog/welcome-dialog.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">dialog</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

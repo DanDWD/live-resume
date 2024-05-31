@@ -4,23 +4,23 @@
         "position": 1,
         "startAt": "02-02-2009",
         "endAt": "12-24-2010",
-        "companyName": "Fácil Tecnologias",
-        "website": "http://www.faciltecnologias.com.br/",
+        "companyName": "Virtusa",
+        "website": "https://www.virtusa.com/",
         "logo": "assets/template/experience/logo/facil-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
-                "city": "Uberaba",
-                "country": "Brasil",
-                "role": "Estágio Webmaster",
-                "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+                "language": "fr",
+                "city": "Londres",
+                "country": "Angleterre",
+                "role": "Developpeur Web",
+                "description": "    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
             },
             {
                 "language": "en",
-                "city": "Uberaba",
-                "country": "Brazil",
-                "role": "Webmaster intern",
-                "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+                "city": "London",
+                "country": "England",
+                "role": "Web developer",
+                "description": "    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
             }
         ],
         "technologies": [
@@ -45,7 +45,7 @@
         "logo": "assets/template/experience/logo/etatica-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "fr",
                 "city": "Rio de Janeiro",
                 "country": "Brasil",
                 "role": "Desenvolvedor Full-stack",
@@ -91,7 +91,7 @@
         "logo": "assets/template/experience/logo/deevo-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "fr",
                 "city": "São Paulo",
                 "country": "Brasil",
                 "role": "Desenvolvedor Mobile",
@@ -126,7 +126,7 @@
         "logo": "assets/template/experience/logo/skydreamer-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "fr",
                 "city": "Utrecht",
                 "country": "Países Baixos",
                 "role": "Desenvolvedor Full-stack",
@@ -167,7 +167,7 @@
         "logo": "assets/template/experience/logo/qat-global-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "fr",
                 "city": "Uberaba",
                 "country": "Brasil",
                 "role": "Engenheiro de Software",
@@ -212,7 +212,7 @@
         "logo": "assets/template/experience/logo/swisscom-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "fr",
                 "city": "Rotterdão",
                 "country": "Países Baixos",
                 "role": "Engenheiro Full-stack",
