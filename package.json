@@ -80,5 +80,10 @@
     "protractor": "^7.0.0",
     "ts-node": "~8.3.0",
     "typescript": "~4.8.4"
+  },
+  "scripts": {
+    "build-i18n:fr": "ng build --output-path=dist/fr --aot -prod --bh /fr/ --i18n-file=src/i18n/messages.fr.xlf --i18n-format=xlf --locale=fr",
+    "build-i18n:en": "ng build --output-path=dist/en --aot -prod --bh /en/ --i18n-file=src/i18n/messages.en.xlf --i18n-format=xlf --locale=en",
+    "build-i18n": "npm run build-i18n:en && npm run build-i18n:fr"
   }
 }

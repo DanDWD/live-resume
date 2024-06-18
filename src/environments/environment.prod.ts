@@ -2,7 +2,7 @@ export const environment = {
   production: true,
   // replace the data below with your personal data
   personal: {
-    caricature: "dancartoon.png",
+    caricature: "dancartoon.webp",
     name: "Daniel Desplaces",
     birth: "1980-12-23",
     email: "danieldesplaces@proton.me",
