@@ -5,17 +5,17 @@
     "ng": "ng",
     "start": "ng serve",
     "start:en": "ng serve --configuration en",
-    "start:pt": "ng serve --configuration pt",
+    "start:fr": "ng serve --configuration fr",
     "build": "ng build",
     "build:en": "ng build --configuration en",
-    "build:pt": "ng build --configuration pt",
+    "build:fr": "ng build --configuration fr",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "int:extract": "ng xi18n --output-path src/locales",
     "build-locale:en": "ng build --configuration en",
-    "build-locale:pt": "ng build --configuration pt",
-    "build-locale": "npm run build-locale:en && npm run build-locale:pt"
+    "build-locale:fr": "ng build --configuration fr",
+    "build-locale": "npm run build-locale:en && npm run build-locale:fr"
   },
   "private": true,
   "dependencies": {
@@ -80,10 +80,5 @@
     "protractor": "^7.0.0",
     "ts-node": "~8.3.0",
     "typescript": "~4.8.4"
-  },
-  "scripts": {
-    "build-i18n:fr": "ng build --output-path=dist/fr --aot -prod --bh /fr/ --i18n-file=src/i18n/messages.fr.xlf --i18n-format=xlf --locale=fr",
-    "build-i18n:en": "ng build --output-path=dist/en --aot -prod --bh /en/ --i18n-file=src/i18n/messages.en.xlf --i18n-format=xlf --locale=en",
-    "build-i18n": "npm run build-i18n:en && npm run build-i18n:fr"
   }
 }
